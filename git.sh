@@ -1,3 +1,4 @@
+$(sh ../house.sh);
 date=$(date);
 
 git add . &&
