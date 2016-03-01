@@ -4,7 +4,7 @@
 <body>
 
 <head>
-<meta name='viewport' content='width=device-width, initial-scale=1'>
+
 <title>Home</title>
 
 <style>
@@ -26,11 +26,9 @@ border-radius: 50%;
 width:40px;
 height:40px;
 display:block;
-box-shadow: 0 0 10px rgba(0,0,0,0.1);
+box-shadow: 0 0 10px rgba(0,0,0,0.3);
 background: #9E9E9E;
 }
-
-span.cs {}
 
 span.cs0 {
 background: #D32F2F;
@@ -42,53 +40,28 @@ span.cs1 {
 background: #4CAF50
 }
 
-
-@-webkit-keyframes lightPulse {
-  from { background-color: rgba(255,255,255,.1);  -webkit-box-shadow: 0 0 9px #333; }
-  50% { background-color: rgba(255,255,255,.2);  -webkit-box-shadow: 0 0 18px #fff; }
-  to { background-color: rgba(255,255,255,.1);  -webkit-box-shadow: 0 0 9px #333; }
-}
-
-span.bulb {
-	
-	display:block;
-	width:38px;
-	border-radius: 50%;
-	height:38px;
-	border: 1px solid rgba(255,255,255,.3);
-	background: rgba(255,255,255,.5);
-}
-
 span.bulb.true.on{
-	
- -webkit-animation-name: lightPulse;
-  -webkit-animation-duration: 3s;
-  -webkit-animation-iteration-count: infinite;
-}
-
-span.therm {
-	border: 3px solid #aaa;
-	width: 36px;
-	height: 36px;
-	border-radius: 50%;
-	display:block;
-	box-shadow: inset 0px 0px 0px 7px #222;
-	-webkit-box-shadow: inset 0px 0px 0px 7px #222;
-	-moz-box-shadow: inset 0px 0px 0px 7px #222;
-	-o-box-shadow: inset 0px 0px 0px 7px #222;
+background: #fff;
+box-shadow: 0 0 10px rgba(255,255,255,1);
 }
 
 span.therm.heating {
-background: #E64A19;
-}
 
+background: #E64A19;
+border: 3px solid #ccc;
+width:36px;
+height:36px
+}
 span.therm.off {
 background: #455A64;
+border: 3px solid #ccc;
+width:36px;
+height:36px
 }
 
 span.protect.ok {
 background: #fff;
-box-shadow: 0 0 20px #8BC34A;
+box-shadow: 0 0 10px #8BC34A;
 }
 
 </style>
@@ -97,7 +70,7 @@ box-shadow: 0 0 20px #8BC34A;
 <body>
 
 <h1>Home</h1>
-<p>Mon 29 Feb 2016 16:55:02 GMT</p>
+<p>Tue  1 Mar 2016 11:22:19 GMT</p>
 <h2>Nest</h2>
 Protect: 	ok <span class='protect	ok'></span>
 <br>Thermostat: 	off <span class='therm	off'></span>
