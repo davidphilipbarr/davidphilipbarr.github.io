@@ -1,14 +1,16 @@
-<style>
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,700);
 
 body {
-	background: #ddd;
+	background: #00BCD4;
+font-family: 'Roboto', sans-serif;
+
 }
 
 .circle {
 	width:4em;
 	height:4em;
 	border-radius: 50%;
-	display:inline-block;
+	display:block;
 	margin-right:2em;
 }
 
@@ -25,12 +27,12 @@ body {
 	height:2em;
 	border-radius: 50%;
 	background: #888;
-	
+
 }
 
 .therm.heating span{
 	background: #FF5722;
-	
+
 }
 
 
@@ -41,12 +43,12 @@ body {
 	    -moz-box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
 	    -ms-box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
 	    -o-box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
-	    box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
+	    box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07);
 	width:4.1em;
 	height:4.1em;
 }
 
-.bulb.on {
+.bulb.true.on {
 	background: rgba(255,255,220,1);
 	    -webkit-box-shadow: 0px 0px 10px rgba(255,255,255,0.8), 0px 0px 30px rgba(255,255,255,0.8), 0px 0px 50px rgba(255,255,220,0.6), 0px 0px 70px rgba(255,255,255,0.6), -80px -15px 120px 0px rgba(255,255,255,0.4);
 	    -moz-box-shadow: 0px 0px 10px rgba(255,255,255,0.8), 0px 0px 30px rgba(255,255,255,0.8), 0px 0px 50px rgba(255,255,220,0.6), 0px 0px 70px rgba(255,255,255,0.6), -80px -15px 120px 0px rgba(255,255,255,0.4);
@@ -54,11 +56,11 @@ body {
 	    -o-box-shadow: 0px 0px 10px rgba(255,255,255,0.8), 0px 0px 30px rgba(255,255,255,0.8), 0px 0px 50px rgba(255,255,220,0.6), 0px 0px 70px rgba(255,255,255,0.6), -80px -15px 120px 0px rgba(255,255,255,0.4);
 	    box-shadow: 0px 0px 10px rgba(255,255,255,0.8), 0px 0px 30px rgba(255,255,255,0.8), 0px 0px 50px rgba(255,255,220,0.6), 0px 0px 70px rgba(255,255,255,0.6), -80px -15px 120px 0px rgba(255,255,255,0.4);
 	border-color: #ccc;
-	
+
     -webkit-animation-name: lightPulse;
      -webkit-animation-duration: 3s;
      -webkit-animation-iteration-count: infinite;
-	
+
 }
 
 @-webkit-keyframes lightPulse {
@@ -95,21 +97,3 @@ body {
 .cc.state1 span {
 	background: #CDDC39;
 }
-
-</style>
-
-
-
-<div class="circle therm"><span></span></div>
-
-<div class="circle therm heating"><span></span></div>
-
-<div class="circle bulb"></div>
-
-<div class="circle bulb on"></div>
-
-<div class="circle protect"></div>
-<div class="circle protect ok"></div>
-
-<div class="circle cc state1"><span></span></div>
-<div class="circle cc state0"><span></span></div>
