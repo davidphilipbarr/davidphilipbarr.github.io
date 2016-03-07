@@ -1,3 +1,5 @@
+git pull &&
+
 $(sh house.sh);
 date=$(date);
 
