@@ -1,30 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,700);
 
 body {
-background: #00BCD4;
+	background: #00BCD4;
 font-family: 'Roboto', sans-serif;
-color: #fff;
-}
 
-h1 {
-	font-size: 3em;
-	font-weight:300;
-}
-
-
-h2 {
-	font-weight:300;
-	border-bottom: 1px solid rgba(255,255,255,.2);
-	margin-bottom:30px;
-	padding: 15px;
 }
 
 .circle {
-	width:8em;
-	height:8em;
+	width:4em;
+	height:4em;
 	border-radius: 50%;
-	display:inline-block;
-	margin-right:1em;
+	display:block;
+	margin-right:2em;
 }
 
 .therm {
@@ -35,9 +22,9 @@ h2 {
 
 .therm span {
 	display:block;
-	margin:2em;
-	width:4em;
-	height:4em;
+	margin:1em;
+	width:2em;
+	height:2em;
 	border-radius: 50%;
 	background: #888;
 
@@ -57,8 +44,8 @@ h2 {
 	    -ms-box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
 	    -o-box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07), -80px -15px 15px -5px rgba(0,0,0,0.1);
 	    box-shadow: inset 0px 1px 5px rgba(255,255,255,0.1), inset 0px 2px 20px rgba(255,255,255,0.07);
-	width:8.1em;
-	height:8.1em;
+	width:4.1em;
+	height:4.1em;
 }
 
 .bulb.true.on {
@@ -77,9 +64,9 @@ h2 {
 }
 
 @-webkit-keyframes lightPulse {
-  from { background-color: rgba(255,255,220,.9);  -webkit-box-shadow: 0 0 9px #fff; }
-  50% { background-color: rgba(255,255,220,1);  -webkit-box-shadow: 0 0 18px #fff; }
-  to { background-color: rgba(255,255,220,.9);  -webkit-box-shadow: 0 0 9px #fff; }
+  from { background-color: rgba(255,255,220,.1);  -webkit-box-shadow: 0 0 9px rgba(0,0,0,0); }
+  50% { background-color: rgba(255,255,220,.2);  -webkit-box-shadow: 0 0 18px #fff; }
+  to { background-color: rgba(255,255,220,.1);  -webkit-box-shadow: 0 0 9px rgba(0,0,0,0); }
 }
 
 .protect {
@@ -100,38 +87,13 @@ h2 {
 
 .cc span {
 	display:block;
-	margin:2em;
-	width:4em;
-	height:4em;
+	margin:1em;
+	width:2em;
+	height:2em;
 	border-radius: 50%;
 	background: #222;
 }
 
 .cc.state1 span {
 	background: #CDDC39;
-}
-
-span.tt {
-	display:none;
-	border: 1px solid #888;
-	background: #fff !important;
-	padding: 15px;
-	position:absolute;
-	opacity:1 !important;
-	margin-left: 4em;
-	border-radius: 1em;
-}
-
-
-.circle:hover span.tt {
-	display:block;
-	background: #fff !important;
-	opacity:1 !important;
-
-}
-
-.container {
-	text-align:center;
-	max-width:70%;
-	margin: 0 auto
 }
