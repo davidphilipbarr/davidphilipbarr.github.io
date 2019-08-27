@@ -1,0 +1,29 @@
+<html>
+<head>
+<script src="https://cdn.jsdelivr.net/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/9.1.0/markdown-it.js" integrity="sha256-OMCvbiAnpqoR2o0AGkbvAZZa+REf625Xm1FRNpJmY9g=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
+<title>Mechanical Keyboards and Where to buy thing</title>
+</head>
+
+<script>
+	let md;
+	md = window.markdownit({html: true}).use(window.markdownitFootnote);
+	$.ajax({
+	  url: "stores.md",
+	  success: function(markdown){
+		  let html;
+	    html = md.render(markdown);
+	    $("#content").html(html);
+	  }
+	});
+	</script>
+<body>
+	
+	<div id="content"></div>
+	
+	
+</body>	
+</html>
+	
+	
