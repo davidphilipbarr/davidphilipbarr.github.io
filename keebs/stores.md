@@ -4,6 +4,7 @@
 - [Candy Keys](https://candykeys.com/) (DE)
 - [Caps Unlocked](https://caps-unlocked.com) (UK)
 - [Falba Tech](https://falba.tech) (PL)
+- [keyboardcollective.eu](https://keyboardcollective.eu)
 - [Keycapsss](https://keycapsss.com/) (DE)
 - [Knops](http://knops.io) (NL)
 - [Mechboards](https://mechboards.co.uk) (UK)
@@ -61,3 +62,34 @@
 - [Pexon](https://pexonpcs.co.uk) (UK)
 - [Zap Cables](https://zapcables.com) (US)
 
+## Resources
+
+## Open Source
+
+- [Awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
+
+
+## News/Talk
+
+- [Keeb Talk](https://www.keebtalk.com/)
+- [40 percent Club](http://www.40percent.club/)
+- [Geekhack](https://geekhack.org/)
+- [Deskthority](https://deskthority.net)
+- [Input Club](https://input.club/)
+
+## PCB fabrication
+- [PCBWay](https://www.pcbway.com/)
+- [Allpcb](https://www.allpcb.com/)
+- [Jlcpcb.com](https://www.jlcpcb.com/)
+	
+## Others
+
+- [QMK](https://qmk.fm/)
+- [TMK](https://github.com/tmk/tmk_keyboard)
+- [KLE Render](https://github.com/CQCumbers/kle_render)
+- [kle-render.herokuapp.com/](https://kle-render.herokuapp.com/)
+- [QMK Config](https://config.qmk.fm)
+- [Plate and Case Builder](http://builder.swillkb.com/)
+- [Keyboard layout editor](http://www.keyboard-layout-editor.com)
+- [Split Keyboard List](docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0:)
+- [Keyboard Database](https://www.kbddb.com/)
