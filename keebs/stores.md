@@ -1,4 +1,5 @@
 # Stores
+
 ## EU
 
 - [Candy Keys](https://candykeys.com/) (DE)
@@ -13,7 +14,7 @@
 - [Mekanisk](https://mekanisk.co) (NO)
 - [My Keyboard](https://mykeyboard.eu) (BE)
 - [Opticboards](https://opticboards.co.uk/) (UK)
-- [Paradign Parts] (https://paradigm.parts/) (UK)
+- [Paradign Parts](https://paradigm.parts/) (UK)
 - [Qlavier](https://www.qlavier.com/) (BE)
 - [Smashing Acrylics](https://smashingacrylics.co.uk/) (UK)
 - [UK Keycaps](http://www.ukkeycaps.co.uk) (DE)
@@ -68,7 +69,6 @@
 ## Open Source
 
 - [Awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
-
 
 ## News/Talk
 
