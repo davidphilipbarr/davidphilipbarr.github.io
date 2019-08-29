@@ -61,6 +61,7 @@
 ## Cables
 
 - [Cool Cables](https://www.coolcable.co.uk/gb) (UK)
+- [Kris Cables](https://www.etsy.com/shop/kriscables) (PT)
 - [Pexon](https://pexonpcs.co.uk) (UK)
 - [Zap Cables](https://zapcables.com) (US)
 
