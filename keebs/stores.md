@@ -5,7 +5,7 @@
 - [Candy Keys](https://candykeys.com/) (DE)
 - [Caps Unlocked](https://caps-unlocked.com) (UK)
 - [Falba Tech](https://falba.tech) (PL)
-- [keyboardcollective.eu](https://keyboardcollective.eu) (EU?)
+- [Keyboard Collective](https://keyboardcollective.eu) (EU?)
 - [Keycapsss](https://keycapsss.com/) (DE)
 - [Knops](http://knops.io) (NL)
 - [Mechboards](https://mechboards.co.uk) (UK)
