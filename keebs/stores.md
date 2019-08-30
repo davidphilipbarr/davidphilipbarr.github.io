@@ -17,6 +17,7 @@
 - [Paradign Parts](https://paradigm.parts/) (UK)
 - [Qlavier](https://www.qlavier.com/) (BE)
 - [Smashing Acrylics](https://smashingacrylics.co.uk/) (UK)
+- [Split KB](https://splitkb.com) (NL)
 - [UK Keycaps](http://www.ukkeycaps.co.uk) (DE)
 
 ## World
