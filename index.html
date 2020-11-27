@@ -1,24 +1,67 @@
 <html>
-<link href='https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy' rel='stylesheet' type='text/css'>
+
+<head><link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
 <style>
 
+* {
+	padding:0;
+	margin: 0	
+}
+
 body {
-	font-family: 'Sorts Mill Goudy', serif;
-	font-size: 10em;
-	background: #212121;
-	color: #b6b6b6;
-	line-height:1;
-	margin: .5em;
+	background: #a6b1a6;
+	color: #555;
+	line-height:1.4;
+	height: 100%;font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+a {
+	color: #555;
+	border-bottom: 1px solid  #666;
+	text-decoration:none
+}
+
+a:hover {
+	border-bottom: 1px solid  #333;
+}
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+
+}
+.Aligner {
+  display: flex;
+  align-items: center;
+	height: 100%;
+  justify-content: center;
+}
+
+.Aligner-item {
+  max-width: 50%;
+}
+
+.Aligner-item--top {
+  align-self: flex-start;
+}
+
+.Aligner-item--bottom {
+  align-self: flex-end;
 }
 
 
 </style>
-
+</head>
 <body>
-	This<br> 
-	is <br>
-	it.<br>
 	
+	<div class="Aligner">
+		<div class="Aligner-item">
+			<h1>This is it?</h1>
+
+			<p><a href="https://github.com/davidphilipbarr">small keyboards &amp; occasional home automation.</a></p>
+		</div>
+	  </div>
 	
 	
 </body>
