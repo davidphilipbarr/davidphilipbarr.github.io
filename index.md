@@ -8,7 +8,7 @@ Q: Is there even any firmware?
 
 A: Probably. Most of the thirty two key keyboards use the 'Cradio' firmware, which is part of ZMK, QMK and Bluemicro. The sweep can also use the sweep firmware that is part of the Ferris in QMK. There should be additional firmware for QMK [here](https://github.com/davidphilipbarr/36keys/tree/master/qmk) and for ZMK [here](https://github.com/davidphilipbarr/zmk-shields). 36 key keyboards without diodes should use 'Cradio36' and with diodes will use the corne firmware. 
 
-## Stenography
+## Stenography/Chording
 
 [NOIP](https://github.com/davidphilipbarr/36keys/tree/master/Misc/noipV2)
 Assetniop keyboard for promicro.
