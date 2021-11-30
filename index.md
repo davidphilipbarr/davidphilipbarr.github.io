@@ -1,6 +1,6 @@
 # Small Keyboards
 
-Q: What is even going on?
+Q: What is going on?
 
 A: There are a lot of little keyboards tucked away in here. This is by no means all or even most of them, but should serve as a starting point to find *something*.
 
