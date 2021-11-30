@@ -4,14 +4,6 @@ Q: What is even going on?
 
 A: There are a lot of little keyboards tucked away in here. This is by no means all or even most of them, but should serve as a starting point to find *something*.
 
-Q: What kind of switches do I need?
-
-A: Unless explicitly stated these all use Kailh choc switches 
-
-Q: Do I need to solder lots of diodes?
-
-A: Only the corne and the popcorn(e) need diodes. 
-
 Q: Is there even any firmware?
 
 A: Probably. Most of the thirty two key keyboards use the 'Cradio' firmware, which is part of ZMK, QMK and Bluemicro. The sweep can also use the sweep firmware that is part of the Ferris in QMK. There should be additional firmware for QMK [here](https://github.com/davidphilipbarr/36keys/tree/master/qmk) and for ZMK [here](https://github.com/davidphilipbarr/zmk-shields). 36 key keyboards without diodes should use 'Cradio36' and with diodes will use the corne firmware. 
@@ -47,7 +39,7 @@ Thirty two key keyboard based on the much better Ferris keyboard, but using a pr
 ## Thirty six keys
 
 [Choc Spaced Corne](https://github.com/davidphilipbarr/Choc-Spaced-Corne) 
-Choc spaced (18x16mm) version of the corne keyboard.
+Choc spaced (18x17mm) version of the corne keyboard.
 
 [PopCorne ](https://github.com/davidphilipbarr/popcorn)
 Thirty six key version of the corne keyboard with extra stagger.
