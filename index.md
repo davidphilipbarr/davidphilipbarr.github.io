@@ -2,7 +2,7 @@
 
 Q: What is even going on?
 
-A: There are a lot of little keyboards tucked away in here. this is by no means all or even most of them, but should serve as a starting point to find *something*.
+A: There are a lot of little keyboards tucked away in here. This is by no means all or even most of them, but should serve as a starting point to find *something*.
 
 Q: What kind of switches do I need?
 
@@ -10,8 +10,7 @@ A: Unless explicitly stated these all use Kailh choc switches
 
 Q: Do I need to solder lots of diodes?
 
-A: Only the corne and the popcorne need diodes. 
-
+A: Only the corne and the popcorn(e) need diodes. 
 
 Q: Is there even any firmware?
 
