@@ -1,5 +1,3 @@
-# Small Keyboards
-
 Q: What is going on?
 
 A: There are a lot of little keyboards tucked away in here. This is by no means all or even most of them, but should serve as a starting point to find *something*.
@@ -19,24 +17,28 @@ Stenography board for use with plover, needs an elite-c, goldfish, comet or Puch
 [Artsey Macro Board](https://github.com/davidphilipbarr/Macropads/tree/main/macro2)
 Eight key macropad.
 
-## 'Ergonomic'
+## Small Keyboards
 
-[Hypergolic](https://github.com/davidphilipbarr/hypergolic/tree/main/hypergolic%20V1.3)
-Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
- 
-[Parergon](https://github.com/davidphilipbarr/hypergolic/tree/main/parergonv2)
-Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
-
-[Paroxysm ](https://github.com/davidphilipbarr/hypergolic/tree/main/paroxysm)
-Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with promicro or equivalent.
+### Thirty two keys
 
 [Holy 32 ](https://github.com/davidphilipbarr/hypergolic/tree/main/holy32)
 Thirty two key keyboard with vertical stagger and 'splayed' columns, with only two thumb keys, for use with nice!nano or promicro equivalent
 
+[Parergon](https://github.com/davidphilipbarr/hypergolic/tree/main/parergonv2)
+Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
+
+### Thirty four keys
+
+[Hypergolic](https://github.com/davidphilipbarr/hypergolic/tree/main/hypergolic%20V1.3)
+Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
+
+[Paroxysm ](https://github.com/davidphilipbarr/hypergolic/tree/main/paroxysm)
+Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with promicro or equivalent.
+
 [Sweep](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2)
 Thirty four key keyboard based on the much better Ferris keyboard, but using a promicro or nice!nano.
 
-## Thirty six keys
+### Thirty six keys
 
 [Choc Spaced Corne](https://github.com/davidphilipbarr/Choc-Spaced-Corne) 
 Choc spaced (18x17mm) version of the corne keyboard.
