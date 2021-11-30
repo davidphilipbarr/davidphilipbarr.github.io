@@ -22,19 +22,19 @@ Eight key macropad.
 ## 'Ergonomic'
 
 [Hypergolic](https://github.com/davidphilipbarr/hypergolic/tree/main/hypergolic%20V1.3)
-Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
+Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
  
 [Parergon](https://github.com/davidphilipbarr/hypergolic/tree/main/parergonv2)
 Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
 
 [Paroxysm ](https://github.com/davidphilipbarr/hypergolic/tree/main/paroxysm)
-Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with promicro or equivalent.
+Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with promicro or equivalent.
 
 [Holy 32 ](https://github.com/davidphilipbarr/hypergolic/tree/main/holy32)
 Thirty two key keyboard with vertical stagger and 'splayed' columns, with only two thumb keys, for use with nice!nano or promicro equivalent
 
 [Sweep](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2)
-Thirty two key keyboard based on the much better Ferris keyboard, but using a promicro or nice!nano.
+Thirty four key keyboard based on the much better Ferris keyboard, but using a promicro or nice!nano.
 
 ## Thirty six keys
 
