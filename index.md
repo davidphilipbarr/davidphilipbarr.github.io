@@ -17,7 +17,11 @@ Stenography board for use with plover, needs an elite-c, goldfish, comet or Puch
 [Artsey Macro Board](https://github.com/davidphilipbarr/Macropads/tree/main/macro2)
 Eight key macropad.
 
-## Small Keyboards
+## Small Keyboards (all split)
+
+### Thirty keys
+[The Phantom](http://github.com/davidphilipbarr/36keys/tree/master/30keys/thephantom)
+Experimental keyboard. 
 
 ### Thirty two keys
 
