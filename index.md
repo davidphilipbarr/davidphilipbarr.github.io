@@ -22,21 +22,21 @@ Eight key macropad.
 ### Thirty two keys
 
 [Holy 32 ](https://github.com/davidphilipbarr/hypergolic/tree/main/holy32)
-Thirty two key keyboard with vertical stagger and 'splayed' columns, with only two thumb keys, for use with nice!nano or promicro equivalent
+Vertical stagger and 'splayed' columns, with only two thumb keys, for use with nice!nano or promicro equivalent
 
 [Parergon](https://github.com/davidphilipbarr/hypergolic/tree/main/parergonv2)
-Thirty two key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
+Vertical stagger and 'splayed' columns, only two pinky keys per hand, for use with nice!nano.
 
 ### Thirty four keys
 
 [Hypergolic](https://github.com/davidphilipbarr/hypergolic/tree/main/hypergolic%20V1.3)
-Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with nice!nano.
+Vertical stagger and 'splayed' columns, for use with nice!nano.
 
 [Paroxysm ](https://github.com/davidphilipbarr/hypergolic/tree/main/paroxysm)
-Thirty four key keyboard with vertical stagger and 'splayed' columns, for use with promicro or equivalent.
+Vertical stagger and 'splayed' columns, for use with promicro or equivalent.
 
 [Sweep](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2)
-Thirty four key keyboard based on the much better Ferris keyboard, but using a promicro or nice!nano.
+Based on the much better Ferris keyboard, but using a promicro or nice!nano.
 
 ### Thirty six keys
 
@@ -47,7 +47,7 @@ Choc spaced (18x17mm) version of the corne keyboard.
 Thirty six key version of the corne keyboard with extra stagger.
 
 [Petunia](https://github.com/davidphilipbarr/petunia) 
-A Thirty six keyboard for nice!nanos.
+Keyboard for nice!nanos.
 
 [5plice](https://github.com/davidphilipbarr/5plice) 
 A 5plit type keyboard for nice!nanos.
